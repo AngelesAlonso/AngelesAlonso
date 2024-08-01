@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there 👋 I'm Ángeles Alonso</h1>
 </div>
-<img src="https://www.canva.com/design/DAGMn6J6vEc/NgAkh-dxN81G8diYYQewSA/edit?utm_content=DAGMn6J6vEc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="banner.png">
 
 💻 I am a self-taught Fullstack Developer with experience in web development and Machine Learning.<br>
 📚 I have completed several courses in web application development, big data, and artificial intelligence.<br>
