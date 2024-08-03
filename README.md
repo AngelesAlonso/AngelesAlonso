@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi there 👋 I'm M.Angeles Alonso</h1>
 </div>
-<img src="https://github.com/AngelesAlonso/AngelesAlonso/blob/main/Banner.png?raw=true" alt="Banner">
+<!-- 
+<img src="https://github.com/AngelesAlonso/AngelesAlonso/blob/main/Banner.png?raw=true" alt="Banner">-->
 
 💻 I am a self-taught Fullstack Developer with experience in web development and Machine Learning.<br>
 📚 I have completed several courses in web application development, big data, and artificial intelligence.<br>
